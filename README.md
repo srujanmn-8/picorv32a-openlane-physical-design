@@ -66,3 +66,8 @@ picorv32a-openlane-physical-design/
 ├── reports/                  # Extracted OpenSTA timing and Magic DRC logs
 ├── snapshots/                # Visual layout validation (Magic / Klayout)
 └── README.md
+
+## ACKNOWLEDGEMENT
+
+- **Physical Design & Lab Expert, VLSI System Design (VSD):** [Nickson Jose](https://github.com/nickson-jose)
+- **Co-founder of VLSI System Design (VSD):** [Kunal Ghosh](https://github.com/kunalg123/)
