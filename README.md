@@ -2,7 +2,7 @@
 
 This repository documents the complete RTL-to-GDSII physical design flow for the **PicoRV32A** RISC-V 32-bit core using the open-source OpenLANE automated ASIC toolchain and the SkyWater 130nm PDK (`sky130A`).
 
-Rather than relying on default tutorial settings, this repository highlights aggressive **Power, Performance, and Area (PPA) optimizations**, rigorous timing closure, and complete DRC/Antenna sign-off sign-off.
+Rather than relying on default tutorial settings, this repository highlights aggressive **Power, Performance, and Area (PPA) optimizations**, rigorous timing closure, and complete DRC/Antenna sign-off.
 
 ---
 
