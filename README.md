@@ -72,5 +72,6 @@ picorv32a-openlane-physical-design/
 
 ## 6. ACKNOWLEDGEMENT
 
-- **Physical Design & Lab Expert, VLSI System Design (VSD):** [Nickson Jose](https://github.com/nickson-jose)
 - **Co-founder of VLSI System Design (VSD):** [Kunal Ghosh](https://github.com/kunalg123/)
+- **Physical Design & Lab Expert, VLSI System Design (VSD):** [Nickson Jose](https://github.com/nickson-jose)
+
